@@ -15,9 +15,9 @@ import com.li.dbarc.common.database.exception.BaseException;
  * The Class SimpleDateCheck.
  * 简单的日期转换类.
  *
- * @company Shanghai JinYu Software Systems CO.,LTD.
+ * @company Shanghai HHJR Software Systems CO.,LTD.
  * @author 
- * @since 2014-1-3 17:40:38
+ * @since 2015-1-3 17:40:38
  * @version 1.0.0
  */
 public final class DateUtil {

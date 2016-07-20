@@ -3,9 +3,9 @@ package com.li.dbarc.common;
 /**
  * The Interface ErrorCode.
  * 
- * @company Shanghai JinYu Software Systems CO.,LTD.
+ * @company Shanghai HHJR Software Systems CO.,LTD.
  * @author 
- * @since 2014-1-3 10:32:29
+ * @since 2015-1-3 10:32:29
  * @version 1.0.0
  */
 public interface SystemErrorCode {

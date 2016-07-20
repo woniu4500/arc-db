@@ -6,7 +6,7 @@ import java.util.List;
  * The Class ListCondition.
  *
  * @param <T> the generic type
- * @company Shanghai JinYu Software Systems CO.,LTD.
+ * @company Shanghai HHJR Software Systems CO.,LTD.
  * @author 
  * @since 2013-12-25 9:41:10
  * @version 1.0.0

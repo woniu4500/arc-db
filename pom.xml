@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.li</groupId>
-  <artifactId>dbarc</artifactId>
+  <artifactId>arc-db</artifactId>
   <version>0.0.1</version>
   <packaging>jar</packaging>
 
-  <name>dbarc</name>
+  <name>arc-db</name>
   <url>http://maven.apache.org</url>
 
 	<properties>

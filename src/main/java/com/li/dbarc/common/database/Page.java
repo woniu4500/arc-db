@@ -4,7 +4,7 @@ package com.li.dbarc.common.database;
 /**
  * 查询所带的分页信息。 The Class Page.
  *
- * @company Shanghai JinYu Software Systems CO.,LTD.
+ * @company Shanghai HHJR Software Systems CO.,LTD.
  * @author 
  * @since 2013-12-20 16:27:37
  * @version 1.0.0

@@ -17,7 +17,7 @@ import com.li.dbarc.common.database.exception.BaseException;
 /**
  * Query Assit.
  *
- * @company Shanghai JinYu Software Systems CO.,LTD.
+ * @company Shanghai HHJR Software Systems CO.,LTD.
  * @author 
  * @since 2013-12-20 15:35:01
  * @version 1.0.0

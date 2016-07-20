@@ -3,9 +3,9 @@ package com.li.dbarc.common.database.exception;
 /**
  * The Class UpdateException.
  *
- * @company Shanghai JinYu Software Systems CO.,LTD.
+ * @company Shanghai HHJR Software Systems CO.,LTD.
  * @author 
- * @since 2014-1-2 14:15:34
+ * @since 2015-1-2 14:15:34
  * @version 1.0.0
  */
 public class UpdateException extends BaseException {

@@ -7,9 +7,9 @@ import com.li.dbarc.common.database.assist.QueryAssist;
  * The Class AssistService.
  * 查询操作辅助
  * 
- * @company Shanghai JinYu Software Systems CO.,LTD.
+ * @company Shanghai HHJR Software Systems CO.,LTD.
  * @author 
- * @since 2014-1-3 14:07:07
+ * @since 2015-1-3 14:07:07
  * @version 1.0.0
  */
 public abstract class AssistService {

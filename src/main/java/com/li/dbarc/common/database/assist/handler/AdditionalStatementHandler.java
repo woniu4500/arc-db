@@ -4,7 +4,7 @@ package com.li.dbarc.common.database.assist.handler;
  * The Interface AdditionalStatementHandler.
  *
  * @param <T> the generic type
- * @company Shanghai Jinyu Software Systems CO.,LTD.
+ * @company Shanghai HHJR Software Systems CO.,LTD.
  * @author 
  * @since 2013-12-19 15:52:34
  * @version 1.0.0

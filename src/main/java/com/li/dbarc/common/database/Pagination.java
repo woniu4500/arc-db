@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * 查询分页信息.
  *
- * @company Shanghai JinYu Software Systems CO.,LTD.
+ * @company Shanghai HHJR Software Systems CO.,LTD.
  * @author 
  * @since 2013-12-20 16:44:38
  * @version 1.0.0

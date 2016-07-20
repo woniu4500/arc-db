@@ -24,7 +24,7 @@ import com.li.dbarc.common.database.util.ExtDataUtil;
  * <h1>The Class JSONRespExceptionResolver.</h1>
  * <p>Descriptions:</p>
  *
- * @company Shanghai JinYu Software Systems CO.,LTD.
+ * @company Shanghai HHJR Software Systems CO.,LTD.
  * @author
  * @since 2014
  * @version 1.0.0
